@@ -1,4 +1,4 @@
-# VC Course Challenge 2
+# VC Course Challenge 
 
 This is my file for the second challenge of the VC course.
 
