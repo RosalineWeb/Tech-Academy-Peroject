@@ -1,1 +1,16 @@
-This is my File.
+# VC Course Challenge 2
+
+This is my file for the second challenge of the VC course.
+
+---
+
+### Description
+
+This file is part of my learning exercises where I practice coding concepts.
+
+---
+
+### Notes
+
+- Simple text file  
+- Placeholder for future content
